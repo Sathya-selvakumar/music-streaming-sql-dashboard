@@ -65,10 +65,3 @@ This project demonstrates strong skills in data analysis and visualization by tr
 4. Load data and build dashboard
 
 ---
-
-
-
-
-
-
-Thiya
